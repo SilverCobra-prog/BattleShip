@@ -2,7 +2,7 @@ package BattleShipGame;
 
 /**
  * The driver class allows the user to play a game of Battleship by calling the method that allows for the playing of the game.
- * @author Sumukh Venkatesh, Gurinderpal Gaheer, Ayaan Shaikh, Karun Pai
+ * @author Sumukh Venkatesh
  * @version 1.0
  */
 
