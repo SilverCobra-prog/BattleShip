@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Controls the grid and guesses of the BattleShip game and checks for wins.
- * @author Sumukh Venkatesh, Gurinderpal Gaheer, Ayaan Shaikh, Karun Pai
+ * @author Sumukh Venkatesh
  * @version 1.0
  */
 public class GameBoard {
