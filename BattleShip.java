@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Manages the flow of the game including its starting and ending, allows for replayability, and keeps track of the turns.
- * @author Sumukh Venkatesh, Gurinderpal Gaheer, Ayaan Shaikh, Karun Pai
+ * @author Sumukh Venkatesh
  * @version 1.0
  */
 public class BattleShip {
